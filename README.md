@@ -8,10 +8,15 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Start
+2.Data preparation
+3.Hypothesis Definition
+4.Cost Function
+5.Parameter Update Rule
+6.Iterative Training
+7.Model evaluation
+8.End 
+
 
 ## Program:
 ```
